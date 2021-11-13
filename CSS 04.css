@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content:space-around;
+    align-content: center;
+    background-color: rgb(168, 90, 90);
+    padding:1em;
+  }
+
+
+.p1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    font-size: 2.5em;
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.p2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:rgb(0, 0, 0);
+    padding:0em 2em 2em 2em;
+}
+
+.p3 {
+    display: flex;
+    justify-content: flex-end;
+    color:rgb(2, 88, 2);
+}
+.p4 {
+    font-weight: bold;
+}
+
+
+
